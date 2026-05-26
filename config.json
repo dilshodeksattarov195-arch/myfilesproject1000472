@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdalculate",
+        "uuid": 1522200,
+        "checksum": "gpvhbg"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
